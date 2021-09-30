@@ -23,11 +23,11 @@
   |  Peak performance (TeraFLOPS) DP	|  2.45	|
   | Peak performance (TeraFLOPS) SP 	| 4.91 	|
   | Memory bandwidth (TB/s)  	|  1.53	|
-  <br>
+
   The NEC Vector Engine Processor was developed using 16 nm FinFET process technology for extreme high performance and low power consumption. The Vector Engine Processor had the world's first implementation of one processor with six HBM2 memory modules using Chip-on-Wafer-on-Substrate technology, leading to the world-record memory bandwidth of 1.35 TB/s at that time.
   
   
-  <br>
+
   ![VE](https://xai-marketplace-product-description.obs.my-kualalumpur-1.alphaedge.tmone.com.my/Axon%203/VE.PNG )
   [More Information](https://www.nec.com/en/global/solutions/hpc/sx/vector_engine.html)
   ### SuperChassis 743AC-1200B-SQ
@@ -42,7 +42,7 @@
   |200W Platinum Level Certified High-Efficiency Power Supply|
   |3x 5.25" External HDD Drive Bays & 8x 3.5"/2.5" Hot-Swappable HDD Drives|
   
-  <br>
+
   ![chasis](https://xai-marketplace-product-description.obs.my-kualalumpur-1.alphaedge.tmone.com.my/Axon%203/chasis.PNG )
   
   [More Information](https://www.supermicro.com/en/products/chassis/4U/743/SC743AC-1200B-SQ)
