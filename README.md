@@ -23,7 +23,7 @@
   |  Peak performance (TeraFLOPS) DP	|  2.45	|
   | Peak performance (TeraFLOPS) SP 	| 4.91 	|
   | Memory bandwidth (TB/s)  	|  1.53	|
-
+  <br>
   The NEC Vector Engine Processor was developed using 16 nm FinFET process technology for extreme high performance and low power consumption. The Vector Engine Processor had the world's first implementation of one processor with six HBM2 memory modules using Chip-on-Wafer-on-Substrate technology, leading to the world-record memory bandwidth of 1.35 TB/s at that time.
   
   
